@@ -1,0 +1,25 @@
+{
+  "short_name": "BlockBallot",
+  "name": "BlockBallot Voting System",
+  "icons": [
+    {
+      "src": "BlockBallot.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "BlockBallot.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "BlockBallot.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
