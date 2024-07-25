@@ -14,7 +14,11 @@ BlockBallot is a one-of-a-kind decentralized voting system built on the Solana b
 - **Customizable Polls**: Create polls with multiple options and custom durations.
 
 ## User Interface
-Todo: Video Upload
+
+
+
+https://github.com/user-attachments/assets/7c82994c-7b16-43ea-9a18-1f754bcb536d
+
 
 ## Getting Started
 
