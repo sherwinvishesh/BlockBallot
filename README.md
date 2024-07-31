@@ -1,7 +1,7 @@
 
 # BlockBallot: A Decentralized Voting System
 
-![Static Badge](https://img.shields.io/badge/Solana_Hacker_House_:_Bengaluru-_Project_Submitted-blue)
+![Static Badge](https://img.shields.io/badge/Solana_Hacker_House_:_Bengaluru-_Submitted-blue)
 
 BlockBallot is a one-of-a-kind decentralized voting system built on the Solana blockchain. It provides a secure, transparent, and efficient platform for conducting polls and elections.
 
